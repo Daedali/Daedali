@@ -10,11 +10,11 @@
 
 [Splunk Core Certified User](https://cp.certmetrics.com/cisco/en/public/verify/credential/0c5358a2833a4122a6d29e8d7fc55622)
 
-## Projects
-### Homelab
+## Projects ⚙️
+### Homelab 🖥️
 Currently, I am expanding/maintaining a home lab on an optiplex 5050 running proxmox as my virtualization solution.
-### Data Analysis
-### Scripts
+### Data Analysis in R 📊
+### Scripts 🧑‍💻
 Auto clicker for WOW
 
 ## Socials
