@@ -12,11 +12,14 @@
 
 ## Projects
 ### Homelab
+Currently, I am expanding/maintaining a home lab on an optiplex 5050 running proxmox as my virtualization solution.
 ### Data Analysis
 ### Scripts
 Auto clicker for WOW
 
-
+## Socials
+[LinkedIn](https://www.linkedin.com/in/daedali/)
+[Hack The Box](https://profile.hackthebox.com/profile/019e5c21-b80c-7090-b1d3-d33e770423ad?utm_medium=copy_url)
 <!--
 **Daedali/Daedali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
