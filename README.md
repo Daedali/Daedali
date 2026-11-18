@@ -13,9 +13,9 @@
 ## Projects ⚙️
 ### Homelab 🖥️
 Currently, I am expanding/maintaining a home lab on an optiplex 5050 running proxmox as my virtualization solution.
-### Data Analysis in R 📊
 ### Scripts 🧑‍💻
-Auto clicker for WOW
+Auto user generator
+IP Address finder
 
 ## Socials
 [LinkedIn](https://www.linkedin.com/in/daedali/)
